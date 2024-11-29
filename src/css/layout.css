@@ -3,13 +3,13 @@
   margin: auto;
 }
 .contactInnerContainer {
-  width: 80%;
+  
   display: flex;
   margin: auto;
   gap: 50px;
 }
 .contactMain section {
-  width: 900px;
+  width: 100%;
 }
 input {
   width: 700px;
@@ -40,7 +40,6 @@ button {
 
 .aboutMain section {
   flex-direction: column;
-  width: 900px;
   line-height: 2;
 }
 .aboutMain .template {
@@ -48,7 +47,7 @@ button {
 }
 .aboutMain > div {
   margin: auto;
-  width: 1200px;
+  width: 100%;
   display: flex;
   gap: 50px;
 }

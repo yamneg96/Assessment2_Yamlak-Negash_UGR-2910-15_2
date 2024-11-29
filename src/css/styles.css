@@ -63,7 +63,7 @@ header nav ul li:active a {
   background-color: #c48c48;
 }
 .mainContainer {
-  width: 60%;
+  width: 80%;
   display: flex;
   flex-wrap: wrap;
   margin: auto;
@@ -157,7 +157,7 @@ footer {
   line-height: 1.8;
 }
 .footerContainer {
-  width: 65%;
+  width: 80%;
   display: grid;
   grid-template-columns: 1fr 1.5fr 1fr;
   margin: auto;
@@ -220,7 +220,7 @@ footer {
 .copyright > div {
   display: flex;
   justify-content: space-between;
-  width: 60%;
+  width: 80%;
   margin: auto;
 }
 .copyright nav ul {
